@@ -12,7 +12,7 @@ I totally modified this, haha. -Caroline
 
 ## Person C:
 
-Person C should modify content here.
+Person C modified content here.
 
 ## Person D:
 
